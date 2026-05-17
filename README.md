@@ -27,18 +27,17 @@ This project is a production-shaped Retrieval Augmented Generation app with:
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
-copy .env.example .env
 ```
 
 Add your `OPENAI_API_KEY` to `.env`, then run:
 
-```powershell
+```bash
 streamlit run app.py
 ```
 
 For Ollama, install Ollama separately, pull a chat model and an embedding model, then select `Ollama` in the sidebar:
 
-```powershell
+```bash
 ollama pull llama3.1
 ollama pull nomic-embed-text
 ```
