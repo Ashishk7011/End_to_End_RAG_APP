@@ -79,4 +79,4 @@ def _doc_key(doc: Document) -> str:
 def _clone_document(doc: Document) -> Document:
     if hasattr(doc, "model_copy"):
         return doc.model_copy(deep=True)
-    return doc.copy(deep=True)
+    return doc.model_copy(deep=True)
