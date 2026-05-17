@@ -1,7 +1,7 @@
 # Advanced RAG System with LangChain, LangGraph, and Streamlit
 
-![GitHub stars](https://img.shields.io/github/stars/Ashishk7011/Advanced-RAG-System)
-![GitHub forks](https://img.shields.io/github/forks/Ashishk7011/Advanced-RAG-System)
+![GitHub stars](https://img.shields.io/github/stars/Ashishk7011/End_to_End_RAG_APP)
+![GitHub forks](https://img.shields.io/github/forks/Ashishk7011/End_to_End_RAG_APP)
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-green)
 ![LangGraph](https://img.shields.io/badge/Workflow-LangGraph-orange)
