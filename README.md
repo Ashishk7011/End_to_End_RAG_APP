@@ -38,7 +38,7 @@ streamlit run app.py
 For Ollama, install Ollama separately, pull a chat model and an embedding model, then select `Ollama` in the sidebar:
 
 ```bash
-ollama pull llama3.1
+ollama pull qwen2.5
 ollama pull nomic-embed-text
 ```
 
