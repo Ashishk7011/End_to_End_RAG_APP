@@ -62,3 +62,6 @@ src/document_loader.py Upload parsing and chunking
 src/retrieval.py       Chroma + BM25 hybrid retriever
 src/rag_graph.py       LangGraph RAG workflow
 ```
+## Preview
+
+![Rag App](Images/Rag_App_on_Streamlit2.png)
